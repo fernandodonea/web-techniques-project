@@ -1,0 +1,32 @@
+[
+    {
+        "username": "andrei",
+        "password": "12345678",
+        "email": "andrei@example.com",
+        "address": "Strada Exemplu 1, București, România"
+    },
+    {
+        "username": "ion",
+        "password": "12345678",
+        "email": "ion@example.com",
+        "address": "Strada Exemplu 2, Cluj-Napoca, România"
+    },
+    {
+        "username": "maria",
+        "password": "abcd",
+        "email": "maria@example.com",
+        "address": "Strada Exemplu 3, Timișoara, România"
+    },
+    {
+        "username": "george",
+        "password": "abcd",
+        "email": "george@example.com",
+        "address": "Strada Exemplu 4, Iași, România"
+    },
+    {
+        "username": "ana",
+        "password": "abcd",
+        "email": "ana@example.com",
+        "address": "Strada Exemplu 5, Constanța, România"
+    }
+]

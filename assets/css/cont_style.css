@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    padding: 20px;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+
+
+

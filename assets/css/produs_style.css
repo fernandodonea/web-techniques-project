@@ -1,0 +1,66 @@
+.produs{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 4rem;
+    gap: 2rem;
+    color: var(--color-negru);
+    width: 100%;
+
+}
+
+.produs img {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.produs h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+.produs h2 {
+    font-size: 1.5rem;
+    color: var(--color-rosu);
+    margin-bottom: 1rem;
+ }
+ .produs h3 {
+    font-size: 1.5rem;
+    color: var(--color-negru);
+    margin-bottom: 1rem;
+ }
+ .produs p{
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+ }
+
+
+ .descriere {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding-top:1em;
+    padding-left: 8em;
+    gap: 2em;
+ }
+ .descriere p{
+      font-size: 1.5rem;
+ }
+ .tracklist {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+ }
+ .descriere iframe{
+   padding-left: 10em;
+ }
+
+#recenzie
+{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: flex-start;
+   padding-top:1em;
+   padding-left: 8em;
+   gap: 2em;
+
+}
