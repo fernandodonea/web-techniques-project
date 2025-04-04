@@ -45,7 +45,7 @@ function recomandari() {
     // Creează recomandări noi
     let cd1 = `
     <div class="cd">
-        <img src="../assets/images/cd_albums/BacoviaOverdrivevol.IStalingrad.jpg" alt="Bacovia Overdrive vol. I_ Stalingrad">
+        <img src="assets/images/cd_albums/BacoviaOverdrivevol.IStalingrad.jpg" alt="Bacovia Overdrive vol. I_ Stalingrad">
         <h3>Bacovia Overdrive vol. I Stalingrad</h3>
         <h4>Robin and the Backstabbers</h4>
         <p>Preț: 30 RON</p>
@@ -54,7 +54,7 @@ function recomandari() {
     `;
     let cd2 = `
     <div class="cd">
-        <img src="../assets/images/cd_albums/BornToDie.jpg" alt="Born to die">
+        <img src="assets/images/cd_albums/BornToDie.jpg" alt="Born to die">
         <h3>Born to Die</h3>
         <h4>Lana Del Rey</h4>
         <p>Preț: 35 RON</p>
@@ -63,7 +63,7 @@ function recomandari() {
     `;
     let cd3 = `
     <div class="cd">
-        <img src="../assets/images/cd_albums/DAMN..png" alt="Damn">
+        <img src="assets/images/cd_albums/DAMN..png" alt="Damn">
         <h3>Damn</h3>
         <h4>Kendrick Lamar</h4>
         <p>Preț: 30 RON</p>
@@ -72,7 +72,7 @@ function recomandari() {
     `;
     let cd4 = `
     <div class="cd">
-        <img src="../assets/images/cd_albums/graduation.jpg" alt="Graduation">
+        <img src="assets/images/cd_albums/graduation.jpg" alt="Graduation">
         <h3>Graduation</h3>
         <h4>Kanye</h4>
         <p>Preț: 30 RON</p>
@@ -81,7 +81,7 @@ function recomandari() {
     `;
     let cd5 = `
     <div class="cd">
-        <img src="../assets/images/cd_albums/humbug.jpg" alt="Humbug">
+        <img src="assets/images/cd_albums/humbug.jpg" alt="Humbug">
         <h3>Humbug</h3>
         <h4>Arctic Monkeys</h4>
         <p>Preț: 30 RON</p>
@@ -90,7 +90,7 @@ function recomandari() {
     `;
     let cd6 = `
     <div class="cd">
-        <img src="../assets/images/cd_albums/starboy.jpg" alt="Starboy">
+        <img src="assets/images/cd_albums/starboy.jpg" alt="Starboy">
         <h3>Starboy</h3>
         <h4>The Weeknd</h4>
         <p>Preț: 30 RON</p>
@@ -99,7 +99,7 @@ function recomandari() {
     `;
     let cd7 = `
     <div class="cd">
-        <img src="../assets/images/cd_albums/lateregistration.jpg" alt="Late Registration">
+        <img src="assets/images/cd_albums/lateregistration.jpg" alt="Late Registration">
         <h3>Late Registration</h3>
         <h4>Kanye</h4>
         <p>Preț: 30 RON</p>

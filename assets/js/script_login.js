@@ -8,7 +8,7 @@ window.onload = function() {
             let username = document.getElementById('username').value;
             let password = document.getElementById('password').value;
 
-            const url = '../assets/json/utilizatori.json';
+            const url = 'assets/json/utilizatori.json';
             fetch(url)
                 .then((response) => {
                     if (!response.ok) {
